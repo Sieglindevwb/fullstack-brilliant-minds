@@ -1,0 +1,19 @@
+body {
+  width: 50%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.link-note {
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  background-color: blue;
+  padding: 7px;
+}
+
+.link-note:hover {
+  color: blue;
+  border: 1px solid blue;
+  background-color: white;
+}
